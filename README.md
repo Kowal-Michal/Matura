@@ -1,5 +1,5 @@
 # Matura
-Here it is shown process of learning Python for Matura Exam
+Here it is shown process of learning Python for Matura Exam.<br>
 I'm beginner right now, so be patient.
 <br>
 So far I've just learn some basic mathematic algoritms:
