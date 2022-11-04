@@ -5,6 +5,6 @@ def euk_it(a,b):
         b=a%b
         a=pom
     return a
-a=int(input("Podaj liczbę 1: "))
-b=int(input("Podaj liczbę 2: "))
+a=int(input("Podaj liczbę 1:"))
+b=int(input("Podaj liczbę 2:"))
 print(euk_it(a,b))
