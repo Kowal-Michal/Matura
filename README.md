@@ -2,7 +2,7 @@
 Here it is shown process of learning Python for Matura Exam.<br>
 I'm beginner right now, so be patient.
 <br>
-So far I've just learn some basic mathematic algoritms:
+So far I've just learnt some basic mathematic algoritms:
 <br>
 <li>Perfect number algoritm</li>
 <li>Euclid's algoritm</li>
