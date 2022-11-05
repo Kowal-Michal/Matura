@@ -7,3 +7,4 @@ So far I've just learnt some basic mathematic algoritms:
 <li>Perfect number algoritm</li>
 <li>Euclid's algoritm</li>
 <li>Fibonacci's sequence alogoritm</li>
+<li>Factorization of a number</li>
