@@ -13,5 +13,5 @@ def sito(n):
         else:
             continue
     print(tab)
-n=int(input('Podaj ile liczb pierwszych chcesz wyznaczyć: '))
+n=int(input('Podaj ile liczb pierwszych chcesz wyznaczyć:'))
 sito(n)
