@@ -8,3 +8,4 @@ So far I've just learnt some basic mathematic algoritms:
 <li>Euclid's algoritm</li>
 <li>Fibonacci's sequence alogoritm</li>
 <li>Factorization of a number</li>
+<li>Converting decimal system to any muber system</li>
